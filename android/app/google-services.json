@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414483847171",
+    "project_id": "my-fire-connect-twentyfour",
+    "storage_bucket": "my-fire-connect-twentyfour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414483847171:android:c5690b000955d5f6445636",
+        "android_client_info": {
+          "package_name": "com.example.fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414483847171-kg2ern5sjjh9nu52duo44se0k8ka4pf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC14rSA1WXxfJ4HRcU48KieVAXFj8z9oIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414483847171-kg2ern5sjjh9nu52duo44se0k8ka4pf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
